@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "222952641775",
+    "project_id": "riderunner-54da4",
+    "storage_bucket": "riderunner-54da4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222952641775:android:02f72ef9d93ab11d49371a",
+        "android_client_info": {
+          "package_name": "com.example.riderunnertask1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222952641775-dttqb2teh5u1tea87j6j8o16nealhb5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3QWZRGv6rcAOdGE4fYtX0UXPyObWe9es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222952641775-dttqb2teh5u1tea87j6j8o16nealhb5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
